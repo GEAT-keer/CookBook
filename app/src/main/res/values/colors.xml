@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#F6F0E4</color>
+    <color name="paper_dark">#E7DCC7</color>
+    <color name="olive">#68734A</color>
+    <color name="brown">#514333</color>
+    <color name="ink">#30291F</color>
+    <color name="muted">#817563</color>
+    <color name="white">#FFFFFF</color>
+    <color name="line">#D5C7AF</color>
+    <color name="card">#FFFBF3</color>
+    <color name="shade_start">#B3000000</color>
+    <color name="shade_end">#14000000</color>
+    <color name="heart">#C8553D</color>
+    <color name="shade_button">#66000000</color>
+</resources>

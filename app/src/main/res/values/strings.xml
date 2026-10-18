@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CookBook</string>
+    <string name="home_title">CookBook</string>
+    <string name="home_subtitle">Книга домашних рецептов</string>
+    <string name="logo_description">Логотип CookBook</string>
+
+    <string name="search_hint">Что приготовим сегодня?</string>
+    <string name="btn_search">Найти</string>
+    <string name="btn_about">О приложении</string>
+    <string name="section_recipes">Разделы рецептов</string>
+    <string name="link_all">Все рецепты ›</string>
+    <string name="section_quick">Быстрый выбор</string>
+    <string name="soups">Супы</string>
+    <string name="main_dishes">Основные блюда</string>
+    <string name="desserts">Десерты</string>
+    <string name="drinks">Напитки</string>
+    <string name="btn_random">Случайный рецепт</string>
+    <string name="favorites">Избранное</string>
+    <string name="all_recipes">Все рецепты</string>
+
+    <string name="list_empty">Здесь пока ничего нет</string>
+    <string name="title_search">Поиск: %1$s</string>
+    <string name="time_short">%1$d мин</string>
+    <string name="time_info">Время приготовления: %1$d мин  •  %2$s</string>
+    <string name="servings_label">Порции:</string>
+    <string name="minus">−</string>
+    <string name="plus">+</string>
+    <string name="ingredients_title">Ингредиенты</string>
+    <string name="steps_title">Приготовление</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_fav_add">♡ В избранное</string>
+    <string name="btn_fav_remove">♥ Убрать из избранного</string>
+
+    <string name="msg_empty_search">Введите название блюда или продукт</string>
+    <string name="msg_fav_added">Добавлено в избранное</string>
+    <string name="msg_fav_removed">Убрано из избранного</string>
+
+    <string name="about_title">О приложении</string>
+    <string name="about_description">CookBook — книга домашних рецептов. Здесь собраны простые и любимые блюда: супы, основные блюда, десерты и напитки. Выбирай раздел, ищи рецепт по названию или по продуктам, которые есть дома, и готовь с удовольствием.</string>
+    <string name="about_features_title">Что умеет приложение</string>
+    <string name="about_features">• Поиск по названию блюда и по ингредиентам\n• Пересчёт ингредиентов под нужное число порций\n• Случайный рецепт, если не знаешь, что приготовить\n• Избранное, которое сохраняется на телефоне</string>
+    <string name="about_count">Рецептов в книге: %1$d</string>
+    <string name="about_version">Версия %1$s</string>
+    <string name="about_footer">Учебный проект</string>
+
+    <string name="list_count">Найдено: %1$d</string>
+    <string name="item_info">%1$d мин  •  %2$s</string>
+    <string name="chip_any">Любое время</string>
+    <string name="chip_30">До 30 мин</string>
+    <string name="chip_60">До 60 мин</string>
+
+    <string name="fav_description">Добавить в избранное</string>
+    <string name="tip_title">Совет</string>
+</resources>
