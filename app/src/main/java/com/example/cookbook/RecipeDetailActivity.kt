@@ -45,6 +45,7 @@ class RecipeDetailActivity : AppCompatActivity() {
         ivFavorite = findViewById(R.id.ivFavorite)
 
         findViewById<ImageView>(R.id.ivBanner).setImageResource(RecipeData.getPhoto(recipe.id))
+        findViewById<TextView>(R.id.tvRecipeTitle).text = recipe.title
         findViewById<TextView>(R.id.tvRecipeInfo).text =
             getString(R.string.item_info, recipe.minutes, recipe.category)
         findViewById<TextView>(R.id.tvDescription).text = recipe.description
@@ -127,7 +128,7 @@ class RecipeDetailActivity : AppCompatActivity() {
             rounded.toString()
         }
     }
-
+    
     private fun updateFavoriteIcon() {
         if (Favorites.isFavorite(this, recipe.id)) {
             ivFavorite.setImageResource(R.drawable.ic_heart)

@@ -17,6 +17,7 @@ class RecipeAdapter(context: Context, private val recipes: List<Recipe>) :
         val recipe = recipes[position]
 
         view.findViewById<ImageView>(R.id.ivDish).setImageResource(RecipeData.getPhoto(recipe.id))
+        view.findViewById<TextView>(R.id.tvName).text = recipe.title
         view.findViewById<TextView>(R.id.tvInfo).text =
             context.getString(R.string.item_info, recipe.minutes, recipe.category)
 
