@@ -27,7 +27,7 @@
 
 ## Скриншоты
 
-<img src="screenshots/01_splash.png" width="200"> <img src="screenshots/02_main.png" width="200"> <img src="screenshots/03_list.png" width="200"> <img src="screenshots/04_recipe.png" width="200">
+<img src="screenshots/01_splash.png" width="200"> <img src="screenshots/02_main.png" width="200"> <img src="screenshots/03_list.png" width="200"> <img src="screenshots/04_recipe.png" width="200"> <img src="screenshots/05_favorites.png" width="200"> <img src="screenshots/06_about.png" width="200">
 
 ## Ссылки
 
